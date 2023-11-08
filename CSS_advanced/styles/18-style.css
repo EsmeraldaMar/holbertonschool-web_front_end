@@ -272,6 +272,9 @@ a:active {
     color: var(--color-primary);
 }
 
+.navbar-menu {
+    float: right;
+}
 .nav {
     margin: 0;
     padding: 0;
