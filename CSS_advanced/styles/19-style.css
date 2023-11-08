@@ -237,15 +237,6 @@ body {
     line-height: var(--line-height-base);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: var(--font-family-title);
-    font-weight: var(--font-weight-bold);
-}
 
 a:link {
     color: var(--text-color);
@@ -357,6 +348,16 @@ ul.row {
     width: 960px;
     margin-left: auto;
     margin-right: auto;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: var(--font-family-title);
+    font-weight: var(--font-weight-bold);
 }
 
 .footer {
